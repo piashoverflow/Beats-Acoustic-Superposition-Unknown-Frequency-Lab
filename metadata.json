@@ -1,0 +1,6 @@
+{
+  "name": "Beats, Acoustic Superposition & Unknown Frequency Lab",
+  "description": "Interactive physics simulation studio for exploring acoustic beats, wave superposition, amplitude modulation envelopes, and unknown tuning fork frequency deduction via waxing and filing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
